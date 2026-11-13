@@ -1,6 +1,7 @@
 # AI-based search in the search bar for The Insider [MPNet-Multilingual-v2 278M]
 
 **GitHub Pages** 
+⚠️ Note: The model downloads locally to your browser and requires over 1 GB of data. Wi-Fi is recommended.
 Live Demo: 
 
 **Objective:** This project aims to enhance the search precision and context awareness on the website by implementing AI-powered semantic search. 
